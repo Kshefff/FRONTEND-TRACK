@@ -85,7 +85,7 @@
 
     </script>
     <div class="github-link">
-        <a href="https://github.com/Kshefff/FRONTEND-TRACK" target="_blank">Click to Visit GITHUB</a>
+        <a href="https://github.com/Kshefff/FRONTEND-TRACK/blob/main/README.md?plain=1" target="_blank">Click to Visit GITHUB</a>
     </div>
 
 </body>
